@@ -1,6 +1,6 @@
 TDI : OFPPT CFIJ ALKARIA TDI 201
 Développement d’application client serveur
-TPN° 1 :
+TPN° 1  ADO.NET :
 
 Soit la base de données STOCK avec une seul table produit :
 Produit (Id_Produit, Nom, Prix, Quantité)
